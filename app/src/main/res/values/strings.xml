@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">My List to Read</string>
+    <string name="_1">1</string>
+    <string name="title_1">Title 1</string>
+    <string name="read_this_book">Read this book</string>
+    <string name="_123">123</string>
+    <string name="todo">TODO</string>
+    <string name="add">Add</string>
+    <string name="last_read_pages">Last Read Pages</string>
+    <string name="reason">Reason</string>
+    <string name="title">Title</string>
+    <string name="update">Update</string>
+    <string name="delete">Delete</string>
+    <string name="delete_all">Delete All</string>
+    <string name="no_data">No Data.</string>
+</resources>
